@@ -1,0 +1,13 @@
+html{
+    background-color:rgb(138, 255, 127);
+}
+.about{
+    color:purple;
+}
+img{
+    height: 100px;
+    min-width: 100px;
+    position: relative;
+    animation: slide ease-in-out 2s infinite normal both;
+    animation-iteration-count: infinite;
+}
